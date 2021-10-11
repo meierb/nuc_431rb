@@ -32,7 +32,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>cmd_nucleo.cpp</name>
+			<name>Core/Src/cmd_nucleo.cpp</name>
 			<type>1</type>
 			<locationURI>PROJECT_LOC/Core/Inc/cmd_nucleo.cpp</locationURI>
 		</link>
